@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Inne\\stroikGitarowy2\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Andzej\\.android\\build-cache\\9ea434a1f43823209ba1e6996df5a0fc11555fc0\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Inne\\stroikGitarowy2\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Andzej\\.android\\build-cache\\9ea434a1f43823209ba1e6996df5a0fc11555fc0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Kristin\\.android\\build-cache\\3daab6c047b5e5f9f652d3d981a7b4cfb1d45b8e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Inne\\stroikGitarowy2\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Andzej\\.android\\build-cache\\9ea434a1f43823209ba1e6996df5a0fc11555fc0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Kristin\\.android\\build-cache\\3daab6c047b5e5f9f652d3d981a7b4cfb1d45b8e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Inne\\stroikGitarowy2\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Andzej\\.android\\build-cache\\9ea434a1f43823209ba1e6996df5a0fc11555fc0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Kristin\\.android\\build-cache\\3daab6c047b5e5f9f652d3d981a7b4cfb1d45b8e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Kristin\\.android\\build-cache\\3daab6c047b5e5f9f652d3d981a7b4cfb1d45b8e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stroik Gitarowy - projekt PUM</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="sounds">
+        <item>E</item>
+        <item>A</item>
+        <item>D</item>
+        <item>G</item>
+        <item>H</item>
+        <item>e</item>
+    </string-array>
+
+    <string-array name="stroje">
+        <item>Standard E</item>
+        <item>Drop D</item>
+        <item>Open G</item>
+    </string-array>
+</resources>

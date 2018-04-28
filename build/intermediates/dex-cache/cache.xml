@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bb039e63422888d4f83ddfc219859c608ed1ea5">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_84bb77832db91dab2392ca68db07c350cd417d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\c2f726b01cd3e0ded83d8317c5bc76bfd2fde60a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a1b1957c407d77fa60b78a05756f6bd51f3959b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\fc55e2d3c1fc4c8b2f8a42b826121b6db7894063\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a254baef1dc6aad89bb2581df13ff1905bbf4489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\cc7166e3e6672da2ae057f633f43562ae16ca278\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e08214c02dd0205dad15223707258b659281e460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_0a9eaad51571f211375b5f254d2c3fe53a764a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\b146f00d148ab53696f92eabdfe668857675047f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df7448b1b805dd68bca3ce306e620ea2b08dc5ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\Desktop\stroikGitarowy\app\libs\jtransforms-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\2\jtransforms-2.4_47479ef2e227f64d83740a07106ee3b2c056f7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\8e4f50714ac62ecaa4b73c301a15ed094cff5763\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65f67dce03796ef117ca0b0cdc34ac3ebde5c4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\331c82bba8adc17a03c25cb9cf88a9f75c9f9362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36a65e75e79639c7f70c97b2e39b6670163bb20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\19a533feadeb19329290473274b338c20033ca9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d81e727432023fe0c6040dcdb73ac8b8f33857a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\3daab6c047b5e5f9f652d3d981a7b4cfb1d45b8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c102c017ddb0d466f727fd9416a87165698e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\c034edddb4670824d2ce315a6ed138fca0d0d87a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_514a5944bfa4bb16c670b39a1e06a37f34b7bcf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\1399b072129400c5bbd3e7ac7729ef36a0e02c44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb30de6fb7068fc9c3556c28477da9ac213fcd59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\33dfb8bbbf2ab37adc710358a1f4992ad3356d36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f1e48826c523c48b066526140777f3365eecce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\baa44a9b5c338d6eb4a3bbeeb174bd440f38f95f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fd316676a6b4e32238b909b3f3689e3ff94aea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\.android\build-cache\864363ce1091656caa0f910ce412d11e1a823c65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d983cdba11955fa57d65d7b4f8e6bc6708485bb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Kristin\Desktop\stroikGitarowy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_65ee3e37e52cc70d08646ca5e1103d5e08beb9e4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".Main">
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="332dp"
+        android:layout_height="284dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        tools:layout_editor_absoluteY="260dp">
+
+        <Button
+            android:id="@+id/str_man"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.93"
+            android:background="#222222"
+            android:contentDescription="Uruchom tryb strojenia automatycznego."
+            android:onClick="manual"
+            android:elevation="0dp"
+            android:text="Strojenie automatyczne"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle"
+            android:textColor="#efc84a"
+            tools:text="Strojenie manualne" />
+
+        <Button
+            android:id="@+id/str_sluch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.93"
+            android:background="#222222"
+            android:contentDescription="Uruchom tryb strojenia z sluchu."
+            android:onClick="sluchu"
+            android:elevation="0dp"
+            android:text="Strojenie z sluchu"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle"
+            android:textColor="#efc84a"
+            tools:text="Strojenie z sluchu" />
+
+        <Button
+            android:id="@+id/wyjsc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.94"
+            android:background="#222222"
+            android:onClick="Wyjscie"
+            android:contentDescription="Zakończ działanie aplikacji."
+            android:text="Wyjście"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.DialogWindowTitle"
+            android:textColor="#efc84a"
+            tools:text="Wyjście" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/logo"
+        android:layout_width="312dp"
+        android:layout_height="165dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false"
+            android:paddingLeft="10dp"
+            android:src="@drawable/guitar"
+            app:srcCompat="@drawable/guitar" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,7 @@
+#Tue Jun 20 15:27:15 CEST 2017
+base.0=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84bb77832db91dab2392ca68db07c350cd417d19
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_65ee3e37e52cc70d08646ca5e1103d5e08beb9e4\\classes.dex
+base.1=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_65ee3e37e52cc70d08646ca5e1103d5e08beb9e4
+file.0=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_84bb77832db91dab2392ca68db07c350cd417d19\\classes.dex

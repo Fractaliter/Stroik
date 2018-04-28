@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="akawa.stroik.StrojenieSluch"
+    tools:layout_editorkawa.stroik._absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <LinearLayout
+        android:layout_width="291dp"
+        android:layout_height="326dp"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:id="@+id/srodek_sluch"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/gora_sluch">
+
+        <LinearLayout
+            android:id="@+id/pitch_set"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <Button
+                android:id="@+id/struna6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="E"
+                android:onClick="dzwieke"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/struna5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="A"
+                android:onClick="dzwieka"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/struna4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="D"
+                android:onClick="dzwiekd"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                tools:text="D" />
+
+            <Button
+                android:id="@+id/struna3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="G"
+                android:onClick="dzwiekg"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                tools:text="G" />
+
+            <Button
+                android:id="@+id/struna2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="H"
+                android:onClick="dzwiekh"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                tools:text="H" />
+
+            <Button
+                android:id="@+id/struna1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:background="#222222"
+                android:text="e"
+                android:onClick="dzwieke1"
+                android:textAllCaps="false"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                tools:text="e" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/gora_sluch"
+        android:layout_width="369dp"
+        android:layout_height="42dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="32dp"
+        app:layout_constraintLeft_toLeftOf="parent">
+
+        <TextView
+            android:id="@+id/stroj"
+            android:layout_width="233dp"
+            android:layout_height="match_parent"
+            android:paddingTop="9dp"
+            android:text="Wybierz strój:"
+            android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
+            android:textColor="@android:color/white" />
+
+        <Spinner
+            android:id="@+id/spinner_stroj"
+            android:layout_width="136dp"
+            android:layout_height="42dp"
+            android:entries="@array/stroje"
+            android:theme="@android:style/Theme.Holo"
+            tools:layout_editor_absoluteX="324dp"
+            tools:layout_editor_absoluteY="7dp" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

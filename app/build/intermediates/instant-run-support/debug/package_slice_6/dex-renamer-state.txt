@@ -1,0 +1,4 @@
+#Tue Jun 20 14:56:07 CEST 2017
+base.0=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\Users\\Kristin\\Desktop\\stroikGitarowy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
